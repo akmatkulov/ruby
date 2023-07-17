@@ -30,9 +30,12 @@ class Car < Vehicle
 end
 
 class Motorcycle < Vehicle
+  def steer
+    puts "Turn front wheel."
+  end
 end
 
-car = Car.new
-car.odometr=22914
-car.gas_used=221
-puts car.instance_variables
+moto = Motorcycle.new
+moto.steer
+moto.accelerate
+moto.mileage
