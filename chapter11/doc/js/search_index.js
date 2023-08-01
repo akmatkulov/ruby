@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["wordspliter","each()"],"longSearchIndex":["wordspliter","wordspliter#each()"],"info":[["WordSpliter","","WordSpliter.html","","<p>This class allows you to perform various\n"],["each","WordSpliter","WordSpliter.html#method-i-each","()","<p>Passes each word in the string to a block\n"]]}}
