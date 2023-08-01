@@ -1,12 +1,9 @@
-class Hello
-  def greeting
-    puts "Hello, World!"
+def square_sum(numbers)
+  count = 0
+  numbers.each do |item|
+    count += item ** 2
   end
+  puts count
 end
 
-h = Hello.new
-p h
-h.greeting
-
-p '3'
-p 3
+square_sum([0, 3, 4, 5])
