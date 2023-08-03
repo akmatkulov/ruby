@@ -1,0 +1,21 @@
+---
+1: !ruby/object:Movie
+  title: dsad
+  director: sadsadsad
+  year: sdsd
+  id: 1
+2: !ruby/object:Movie
+  title: dsds
+  director: sdsd
+  year: dsdsd
+  id: 2
+3: !ruby/object:Movie
+  title: sdzzz
+  director: xxx
+  year: zzzz
+  id: 3
+4: !ruby/object:Movie
+  title: Star Wars
+  director: George Lucas
+  year: '1977'
+  id: 4
